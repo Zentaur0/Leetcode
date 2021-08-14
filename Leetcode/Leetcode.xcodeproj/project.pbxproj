@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2374E02626C813CF00186479 /* Problems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problems.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2374E01F26C813C100186479 = {
+			isa = PBXGroup;
+			children = (
+				2374E02626C813CF00186479 /* Problems.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2374E02026C813C100186479 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 2374E02326C813C100186479 /* Build configuration list for PBXProject "Leetcode" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2374E01F26C813C100186479;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2374E02426C813C100186479 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		2374E02526C813C100186479 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2374E02326C813C100186479 /* Build configuration list for PBXProject "Leetcode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2374E02426C813C100186479 /* Debug */,
+				2374E02526C813C100186479 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2374E02026C813C100186479 /* Project object */;
+}
